@@ -1,0 +1,40 @@
+*{
+    font-size: 25px;
+}
+h1{
+    font-family: 'Original Surfer', cursive;
+    color: #ff9100;
+    font-size: 45px;
+}
+h2{
+    font-family: 'Freckle Face', cursive;
+    color: #008000;
+    font-size: 35px;
+}
+h3{
+    font-family: 'Architects Daughter', cursive;
+    color: #ff0000;
+    font-size: 60px;
+}
+h4{
+    font-family: 'Amatic SC', cursive;
+    color: #000fff;
+    font-size: 35px;
+}
+h5{
+    font-family: 'Sacramento', cursive;
+    color: #3b353d;
+    font-size: 40px;
+}
+h6{
+    font-family: 'Luckiest Guy', cursive;
+    color:blueviolet;
+}
+p::first-letter{
+    font-family: 'Parisienne', cursive;
+    color:crimson;
+    font-size: 60px;
+}
+p{
+    font-family: 'Parisienne', cursive;
+}
